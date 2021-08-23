@@ -121,4 +121,4 @@ client.on('interactionCreate', async interaction => {
     
 })
 
-client.login('ODQ2NzM3ODMxNzY2MjYxNzkw.YKz4Dg.9fSq5hkQrqdIs2L1ehG-Y1m_YdY');
+client.login('TOKEN');
